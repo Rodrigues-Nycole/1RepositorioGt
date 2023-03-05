@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Rodrigues-Nycole/Rep_Nyck11.git
+git branch -M Master
+git push -u orige principal
